@@ -1,0 +1,543 @@
+[
+   {
+      "title": "Dream Count",
+      "author": "Chimamanda Ngozi Adichie",
+      "prices": [
+         50,
+         80,
+         40
+      ]
+   },
+   {
+      "title": "Half of a Yellow Sun",
+      "author": "Chimamanda Ngozi Adichie",
+      "prices": [
+         60,
+         55
+      ]
+   },
+   {
+      "title": "Purple Hibiscus",
+      "author": "Chimamanda Ngozi Adichie",
+      "prices": [
+         45
+      ]
+   },
+   {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "prices": [
+         70,
+         65,
+         75,
+         60
+      ]
+   },
+   {
+      "title": "No Longer at Ease",
+      "author": "Chinua Achebe",
+      "prices": [
+         55,
+         50
+      ]
+   },
+   {
+      "title": "1984",
+      "author": "George Orwell",
+      "prices": [
+         90,
+         85,
+         80
+      ]
+   },
+   {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "prices": [
+         50,
+         45,
+         55,
+         60
+      ]
+   },
+   {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "prices": [
+         95
+      ]
+   },
+   {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "prices": [
+         85,
+         75,
+         70
+      ]
+   },
+   {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "prices": [
+         65,
+         60
+      ]
+   },
+   {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "prices": [
+         40,
+         45,
+         50,
+         55
+      ]
+   },
+   {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "prices": [
+         85,
+         90
+      ]
+   },
+   {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "prices": [
+         120,
+         115,
+         110,
+         130
+      ]
+   },
+   {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "prices": [
+         100,
+         95,
+         105,
+         110,
+         90
+      ]
+   },
+   {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "prices": [
+         95,
+         100,
+         105
+      ]
+   },
+   {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "prices": [
+         150,
+         145
+      ]
+   },
+   {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "prices": [
+         135,
+         140,
+         130,
+         125
+      ]
+   },
+   {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "prices": [
+         120,
+         115
+      ]
+   },
+   {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "prices": [
+         90
+      ]
+   },
+   {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "prices": [
+         75,
+         80
+      ]
+   },
+   {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "prices": [
+         85,
+         90,
+         80
+      ]
+   },
+   {
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "prices": [
+         90,
+         95
+      ]
+   },
+   {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "prices": [
+         100,
+         95,
+         90
+      ]
+   },
+   {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "prices": [
+         70,
+         75,
+         65
+      ]
+   },
+   {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "prices": [
+         140,
+         135,
+         145,
+         150
+      ]
+   },
+   {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "prices": [
+         80,
+         85,
+         90
+      ]
+   },
+   {
+      "title": "Catching Fire",
+      "author": "Suzanne Collins",
+      "prices": [
+         85,
+         90
+      ]
+   },
+   {
+      "title": "Mockingjay",
+      "author": "Suzanne Collins",
+      "prices": [
+         90
+      ]
+   },
+   {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "prices": [
+         95,
+         100,
+         105
+      ]
+   },
+   {
+      "title": "Angels and Demons",
+      "author": "Dan Brown",
+      "prices": [
+         90,
+         85
+      ]
+   },
+   {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "prices": [
+         110,
+         105,
+         115
+      ]
+   },
+   {
+      "title": "It",
+      "author": "Stephen King",
+      "prices": [
+         130,
+         125
+      ]
+   },
+   {
+      "title": "Misery",
+      "author": "Stephen King",
+      "prices": [
+         100
+      ]
+   },
+   {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "prices": [
+         95,
+         100,
+         90
+      ]
+   },
+   {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "prices": [
+         110,
+         105
+      ]
+   },
+   {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "prices": [
+         100
+      ]
+   },
+   {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "prices": [
+         160,
+         155,
+         165
+      ]
+   },
+   {
+      "title": "Percy Jackson: The Lightning Thief",
+      "author": "Rick Riordan",
+      "prices": [
+         85,
+         80,
+         90
+      ]
+   },
+   {
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "prices": [
+         80,
+         85
+      ]
+   },
+   {
+      "title": "Divergent",
+      "author": "Veronica Roth",
+      "prices": [
+         75,
+         80,
+         85
+      ]
+   },
+   {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "prices": [
+         120,
+         115,
+         110,
+         125
+      ]
+   },
+   {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "prices": [
+         90,
+         95
+      ]
+   },
+   {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "prices": [
+         85,
+         90,
+         95
+      ]
+   },
+   {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen Covey",
+      "prices": [
+         110,
+         105
+      ]
+   },
+   {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "prices": [
+         100
+      ]
+   },
+   {
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "prices": [
+         95,
+         100
+      ]
+   },
+   {
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "prices": [
+         90
+      ]
+   },
+   {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "prices": [
+         130,
+         125,
+         135
+      ]
+   },
+   {
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "prices": [
+         135
+      ]
+   },
+   {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "prices": [
+         110,
+         105
+      ]
+   },
+   {
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "prices": [
+         100,
+         95
+      ]
+   },
+   {
+      "title": "The Tipping Point",
+      "author": "Malcolm Gladwell",
+      "prices": [
+         95
+      ]
+   },
+   {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "prices": [
+         130,
+         125
+      ]
+   },
+   {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "prices": [
+         120
+      ]
+   },
+   {
+      "title": "Born a Crime",
+      "author": "Trevor Noah",
+      "prices": [
+         110,
+         105
+      ]
+   },
+   {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "prices": [
+         95,
+         90
+      ]
+   },
+   {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "prices": [
+         85
+      ]
+   },
+   {
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "prices": [
+         100,
+         105
+      ]
+   },
+   {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "prices": [
+         150,
+         145
+      ]
+   },
+   {
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "prices": [
+         135,
+         130
+      ]
+   },
+   {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "prices": [
+         110
+      ]
+   },
+   {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "prices": [
+         105,
+         100
+      ]
+   },
+   {
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "prices": [
+         180,
+         175,
+         170
+      ]
+   },
+   {
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "prices": [
+         120,
+         115
+      ]
+   },
+   {
+      "title": "Automate the Boring Stuff with Python",
+      "author": "Al Sweigart",
+      "prices": [
+         110,
+         105
+      ]
+   }
+]
